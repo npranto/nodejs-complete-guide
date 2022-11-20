@@ -10,3 +10,8 @@ A complete guide to learning Node.js from zero to mastery
 - Runtime error (try to execute a code, but it breaks)
 - logical errors (no explicit errors, but program is not outputting the expected result, possibly an error to program logic)
 
+### VSCode Debugger Mode
+- VSCode > `Run` > `Start Debugging`
+- make use of breakpoints to pause code or see values of variables
+
+
